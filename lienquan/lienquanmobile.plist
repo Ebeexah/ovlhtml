@@ -11,8 +11,9 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://cdn.baontq.dev/data/13953/1765248441514-signed_umyivmrftikq.ipa</string>
+                    <string>https://www.dropbox.com/scl/fi/3257ze33bjh9uakkzvgk0/signed_umyivmrFTiKq.ipa?rlkey=tdin3ci0nqs6h1ay2t9912p1e&st=r4ymuyn1&dl=1</string>
                 </dict>
+
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
@@ -21,6 +22,21 @@
                     <key>url</key>
                     <string>https://kzyko.ct.ws/app-store/cdn/Lq-57x57.png</string>
                 </dict>
+                
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://kzyko.ct.ws/app-store/cdn/Lq-120x120.png</string> 
+                </dict>
+                
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://kzyko.ct.ws/app-store/cdn/Lq-180x180.png</string> 
+                </dict>
+
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
@@ -30,6 +46,7 @@
                     <string>https://kzyko.ct.ws/app-store/cdn/Lq-512x512.png</string>
                 </dict>
             </array>
+
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
