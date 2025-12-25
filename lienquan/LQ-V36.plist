@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
-      <array>
+    <key>items</key>
+    <array>
         <dict>
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <string>https://dl.dropboxusercontent.com/scl/fi/5hi1cez0700y5msyu1yj8/Li-n-Qu-n-Mobile_1.60.11505108_1766460079.ipa?rlkey=0z8hng9lw8o7do45id69rcaw4&dl=1</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://dl.dropboxusercontent.com/scl/fi/5hi1cez0700y5msyu1yj8/Li-n-Qu-n-Mobile_1.60.11505108_1766460079.ipa?rlkey=0z8hng9lw8o7do45id69rcaw4&amp;dl=1</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://i.codevn.net/images/icon-144.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://i.codevn.net/images/icon-144.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.cylight.click36</string>
+                <key>bundle-version</key>
+                <string>1.60.11505108</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Liên Quân Mobile</string>
+            </dict>
         </dict>
-        <dict>
-          <key>kind</key>
-          <string>display-image</string>
-          <key>needs-shine</key>
-          <true/>
-          <key>url</key>
-          <string>https://ebeexah.github.io/ovlhtml/lienquan/IMG_8409.jpeg</string>
-        </dict>
-        <dict>
-          <key>kind</key>
-          <string>full-size-image</string>
-          <key>url</key>
-          <string>https://ebeexah.github.io/ovlhtml/lienquan/IMG_8409.jpeg</string>
-        </dict>
-      </array>
-      <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>com.cylight.click36</string>
-        <key>bundle-version</key>
-        <string>1.60.11505108</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>Liên Quân Mobile</string>
-      </dict>
-    </dict>
-  </array>
+    </array>
 </dict>
 </plist>
